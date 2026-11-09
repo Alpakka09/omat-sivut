@@ -146,11 +146,9 @@ body{
     padding: 10px 0;
   }
 
-  .koulutus-kontti {
-    width: 100%;
-    display: block;
-    align-items: center;   
-    margin-top: 70px;       
+  .koulutus-kontti ul{
+    padding-left: 20px;
+    margin-top: 100px;       
   }
 
   main {
