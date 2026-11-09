@@ -34,7 +34,7 @@ ul {
   display: flex;
   flex-direction: column;
   align-items: center;   
-  margin-top: 40px;       
+  margin-top: 65px;       
 }
 
 .koulutus-kontti h2 {
@@ -125,11 +125,10 @@ body{
 
   header nav {
     margin-top: 20px;
-    float: none;
-    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
     width: 100%;
-    text-align: center;
-    clear: both;
   }
   header nav ul {
     display: block;
