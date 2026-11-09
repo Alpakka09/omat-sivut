@@ -146,64 +146,14 @@ body{
     padding: 10px 0;
   }
 
-  .showcase {
-    max-width: 600px;
-    padding: 0 20px;
-    text-align: center;
-    font-size: 14px;
-    line-height: 1.6em;
-  }
+  
   main {
     font-size: 1.5em;
     line-height: 1.5em;
     padding-top: 220px;
   }
 
-  ul {
-    text-align:center;               
-    list-style-position: inside;    
-  }
-
-  .koulutus-kontti {
-    width: 100%;
-    max-width: 500px;      
-    margin: 300px auto; 
-    border-collapse: collapse;
-    font-family: sans-serif;
-    margin-top: 300px !important;
-  }
-
-  .koulutus-kontti h2 {
-    font-weight: 500;       
-    color: #333333;         
-    margin-bottom: 20px;
-  }
-
-
-  .koulutus-kontti ul {
-    padding-left: 20px;
-    margin: 0;
-    line-height: 1.6;
-    font-size: 14px;
-  }
-
-
-  .koulutus-kontti > ul > li {
-    font-weight: bold;
-    margin-top: 15px;      
-    color: #444444;
-  }
-
-  .koulutus-kontti ul ul {
-    list-style-type: circle;
-    padding-left: 20px;     
-    margin-top: 3px;
-  }
-
-  .koulutus-kontti ul ul li {
-    font-weight: normal;   
-    color: #555; 
-  }
+  
 
   .copyright {
     text-align: center;
@@ -216,16 +166,7 @@ body{
     line-height: 1.5em;
     padding-top: 220px;
   }
-
+}
   
 
 
-}
-@media (max-width: 768px) {
-  nav {
-    flex-direction: column;      
-    align-items: center;         
-    gap: 15px;                   
-    padding: 15px 0;
-  }
-}
