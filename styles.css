@@ -128,12 +128,6 @@ body{
     font-size: 0.9em;
   }
 
-  header nav ul {
-    display: block;
-    margin: 20px auto;
-    width: 100%;
-    text-align: center;
-  }
 
   .koulutus-kontti ul{
     padding-left: 20px;
