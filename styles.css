@@ -124,7 +124,7 @@ body{
   }
 
   header nav {
-    margin-top: 70px;
+    margin-top: 20px;
     float: none;
     height: auto;
     width: 100%;
@@ -148,7 +148,7 @@ body{
 
   .koulutus-kontti ul{
     padding-left: 20px;
-    margin-top: 10px;       
+    margin-top: 20px;       
   }
 
   main {
