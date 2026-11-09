@@ -122,6 +122,21 @@ body{
     width: 100%;
   }
 
+   header nav.navigointi {
+    margin-top: 15px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px; 
+    width: 100%;
+  }
+
+  header .navigointi_nappi {
+    display: inline-block;
+    padding: 8px 12px;
+    font-size: 0.9em; 
+    text-align: center;
+
   header .navigointi_nappi {
     display: inline-block;
     padding: 8px 12px;
@@ -146,6 +161,7 @@ body{
     font-size: 0.85em;
   }
 }
-  
+
+}
 
 
