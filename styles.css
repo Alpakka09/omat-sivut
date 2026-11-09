@@ -148,13 +148,13 @@ body{
 
   .koulutus-kontti ul{
     padding-left: 20px;
-    margin-top: 100px;       
+    margin-top: 20px;       
   }
 
   main {
-    font-size: 1.5em;
+    font-size: 1.1em;
     line-height: 1.5em;
-    padding-top: 220px;
+    padding-top: 20px;
   }
 
   .copyright {
@@ -163,11 +163,7 @@ body{
     font-size: 0.85em;
   }
 
-  main {
-    font-size: 1.5em;
-    line-height: 1.5em;
-    padding-top: 220px;
-  }
+
 }
   
 
