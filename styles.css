@@ -120,16 +120,14 @@ body{
 
   #brandig {
     width: 100%;
-    clear: both;
   }
 
-  header nav {
-    margin-top: 20px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    width: 100%;
+  header .navigointi_nappi {
+    display: inline-block;
+    padding: 8px 12px;
+    font-size: 0.9em;
   }
+
   header nav ul {
     display: block;
     margin: 20px auto;
@@ -137,32 +135,22 @@ body{
     text-align: center;
   }
 
-  header nav ul li {
-    width: 100%;
-    display: block;
-    clear: both;
-    text-align: center;
-    padding: 10px 0;
-  }
-
   .koulutus-kontti ul{
     padding-left: 20px;
-    margin-top: 20px;       
+    margin-top: 15px;       
   }
 
-  main {
+  main, .koulutus-kontti {
     font-size: 1.1em;
-    line-height: 1.5em;
+    line-height: 1.4em;
     padding-top: 20px;
   }
 
-  .copyright {
+  footer, .copyright {
     text-align: center;
     margin-top: 40px;
     font-size: 0.85em;
   }
-
-
 }
   
 
