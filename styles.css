@@ -146,14 +146,18 @@ body{
     padding: 10px 0;
   }
 
-  
+  .koulutus-kontti {
+    width: 100%;
+    display: block;
+    align-items: center;   
+    margin-top: 70px;       
+  }
+
   main {
     font-size: 1.5em;
     line-height: 1.5em;
     padding-top: 220px;
   }
-
-  
 
   .copyright {
     text-align: center;
